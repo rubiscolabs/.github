@@ -1,7 +1,3 @@
-## Rubisco
-The finest thing to exist
-<img width="4271" height="370" alt="RUBISCOLABS" src="https://github.com/user-attachments/assets/79569491-14b4-45e1-b5bd-d1d2041c09e9" />
+<img width="5279" height="1243" alt="Frame 2" src="https://github.com/user-attachments/assets/6bcc2d6c-b984-4e2e-a4bf-acfca63c77ad" />
 
-
-- Adding this line to test webhook
-- Another test :D
+## The Rubisco Labs
